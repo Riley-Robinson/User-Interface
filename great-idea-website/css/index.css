@@ -71,12 +71,58 @@ h1, h2, h3, h4, h5 {
 
  header nav{
 	width:100%; 
+    font-size: 1.125em;
+    margin-right:.5 ;
+    
 }
 .links{
 	display:inline-block;
-  width:60%;
+	font-size: 1.125em;
+	margin:.5em 0 .5em 1em;
+  	width:75%;
   
 }
+
 .logo{
 	display:inline-block;
+	padding:.90em 0 0 .5em;
+	
+}
+nav a{
+	color:grey;
+	padding:.9em;
+	margin:.2em;
+	text-decoration: none;
+}
+h1{
+	font-size: .75in;
+}
+#tittle .Innovationcenter div{
+	display:inline-block;
+
+
+}
+.Innovation {
+	vertical-align: -400px;
+	align-items: center;
+	text-align: center;
+	padding:5% 5% 1% 10%;
+
+}
+
+.circle{
+vertical-align: top;
+align-self: right;
+padding:10% 5% 1% 5%;
+
+}
+button{
+	background-color: white;
+	color:black;
+	padding:5px 40px;
+}
+hr{
+	border: 1px solid black;
+	width:93%;
+	margin:0 2%;
 }
